@@ -4,7 +4,8 @@
 # Creacion de Herencias
 
 # Code developed based on video 29 "curso python" from https://www.youtube.com/watch?v=u_VbLsIyzRk&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=29
-# and video 30 "curso python" from: https://www.youtube.com/watch?v=jMQQN9OxwVc&index=30&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS 
+# and video 30 "curso python" from: https://www.youtube.com/watch?v=jMQQN9OxwVc&index=30&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS
+# and first part of video 31
 
 class vehiculos():
     def __init__(self, marca, modelo): #Constructor
