@@ -7,7 +7,7 @@
 # and video 30 "curso python" from: https://www.youtube.com/watch?v=jMQQN9OxwVc&index=30&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS
 # and first part of video 31
 
-class vehiculos():
+class vehiculos(): #Main Class
     def __init__(self, marca, modelo): #Constructor
         self.marca = marca
         self.modelo = modelo
