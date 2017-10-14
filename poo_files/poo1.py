@@ -7,7 +7,7 @@
 # and video 27 from https://www.youtube.com/watch?v=x5CY8fVyYLo&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=27
 # and video 28
 
-class coche:
+class coche: # MAIN CLASS
     def __init__(self): #CONSTRUCTOR
         
         self.largo = 200
