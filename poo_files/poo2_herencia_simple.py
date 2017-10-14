@@ -1,4 +1,5 @@
 # Author: Efrain Noa
+# email: enoay7@yahoo.com; noayarae@oregonstate.edu
 # Programacion Orientada a objetos
 # Creacion de Herencias
 
